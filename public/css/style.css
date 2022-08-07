@@ -157,7 +157,7 @@ html {
 
   .img {
     object-fit: cover;
-    background-image: url("/images/image-product-desktop.jpg");
+    background-image: url("./images/image-product-desktop.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     grid-column: 1;
