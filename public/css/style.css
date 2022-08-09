@@ -41,7 +41,7 @@ html {
   .img {
     object-fit: cover;
     background-color: #3c8067;
-    background-image: url("/images/image-product-desktop.jpg");
+    background-image: url("../../images/image-product-desktop.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     grid-column: 1;
@@ -159,7 +159,7 @@ html {
   .img {
     object-fit: cover;
     background-color: #3c8067;
-    background-image: url("/images/image-product-mobile.jpg");
+    background-image: url("../../images/image-product-desktop.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     grid-column: 1;

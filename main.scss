@@ -50,7 +50,7 @@ main {
 .img {
     object-fit: cover;
     background-color:$Dark_cyan;
-    background-image: url("/images/image-product-desktop.jpg");
+    background-image: url("../../images/image-product-desktop.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     grid-column: 1;
@@ -179,7 +179,7 @@ span {
      .img {
          object-fit: cover;
          background-color:$Dark_cyan;
-         background-image: url("/images/image-product-mobile.jpg");
+         background-image: url("../../images/image-product-desktop.jpg");
          background-repeat: no-repeat;
          background-size: cover;
          grid-column: 1;
